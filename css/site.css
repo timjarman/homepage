@@ -1,0 +1,10 @@
+ul.format_list {
+    list-style: none;
+}
+
+li.format {
+    display: inline;
+    float: left;
+    margin-left: 5px;
+    list-style-type: none;    
+}
